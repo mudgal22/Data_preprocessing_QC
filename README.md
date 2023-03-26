@@ -1,4 +1,4 @@
-# Data Processing and Quality Control
+# Data Preprocessing and Quality Control
 This project contains reproduced results of Marisa.et.al. as the submission of my Master's final collaborative project(role:programmer) for class BF528 at Boston University.
 
 
